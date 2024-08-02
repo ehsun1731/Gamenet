@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\seconTry\GamesNet\bin\Debug\net8.0\GamesNet.exe
+C:\Users\lenovo\source\repos\seconTry\GamesNet\bin\Debug\net8.0\GamesNet.deps.json
+C:\Users\lenovo\source\repos\seconTry\GamesNet\bin\Debug\net8.0\GamesNet.runtimeconfig.json
+C:\Users\lenovo\source\repos\seconTry\GamesNet\bin\Debug\net8.0\GamesNet.dll
+C:\Users\lenovo\source\repos\seconTry\GamesNet\bin\Debug\net8.0\GamesNet.pdb
+C:\Users\lenovo\source\repos\seconTry\GamesNet\obj\Debug\net8.0\GamesNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\seconTry\GamesNet\obj\Debug\net8.0\GamesNet.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\seconTry\GamesNet\obj\Debug\net8.0\GamesNet.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\seconTry\GamesNet\obj\Debug\net8.0\GamesNet.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\seconTry\GamesNet\obj\Debug\net8.0\GamesNet.dll
+C:\Users\lenovo\source\repos\seconTry\GamesNet\obj\Debug\net8.0\refint\GamesNet.dll
+C:\Users\lenovo\source\repos\seconTry\GamesNet\obj\Debug\net8.0\GamesNet.pdb
+C:\Users\lenovo\source\repos\seconTry\GamesNet\obj\Debug\net8.0\GamesNet.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\seconTry\GamesNet\obj\Debug\net8.0\ref\GamesNet.dll
