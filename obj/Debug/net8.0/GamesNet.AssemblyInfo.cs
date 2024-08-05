@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GamesNet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc24cf0d280ba4fab28f4998d036da5db7470048")]
 [assembly: System.Reflection.AssemblyProductAttribute("GamesNet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GamesNet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -8,19 +8,26 @@ namespace Gamesnet
 {
     internal class GuessNumberGame:Game
     {
-        
-
-        public GuessNumberGame()
+        public GuessNumberGame(string name, string description) : base(name, description)
         {
-            
+            _name = name;
+            _description = description;
             _theRandomedNumber = RandomNumGenerator();
-           
-        }
-        private int _theRandomedNumber;
-      
-        
 
-       
+        }
+        private string _name;
+        private string _description;
+        private int _theRandomedNumber;
+        public override string Name { get { return _name; } }
+        public override string Description { get { return _description; } }
+
+
+
+
+
+
+
+
         private int RandomNumGenerator()
         {
             Random rnd = new Random();
@@ -54,12 +61,7 @@ namespace Gamesnet
             } while (exit == false);
 
         }
-        public int GetInt(string message)
-        {
-            Console.WriteLine(message);
-            int value = int.Parse(Console.ReadLine()!);
-            return value;
-        }
+       
 
 
     }

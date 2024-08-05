@@ -9,8 +9,18 @@ using System.Threading.Tasks;
 namespace Gamesnet
 {
     internal class GuessWordGame:Game
-    { 
-        
+    {
+        public GuessWordGame(string name,string description):base(name , description)
+        {
+            _name = name;
+            _description = description;
+
+        }
+        private string _name;
+        private string _description;
+        public override string Name { get {return _name; } }
+        public override string Description { get { return _description; } }
+
 
 
         protected override void HowToPlay() 
@@ -50,20 +60,7 @@ namespace Gamesnet
             Console.WriteLine($"the word was {word} ");
 
         }
-       protected char GetChar(string message)
-        {
-            Console.WriteLine(message);
-            char value=char.Parse(Console.ReadLine()!);
-            return value;
-
-        }
-       protected  string GetString(string message)
-        {
-            Console.WriteLine(message);
-            string value = Console.ReadLine()!;
-            return value;
-
-        }
+  
 
     }
 }

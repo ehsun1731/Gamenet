@@ -12,3 +12,4 @@ C:\Users\lenovo\source\repos\seconTry\GamesNet\obj\Debug\net8.0\refint\GamesNet.
 C:\Users\lenovo\source\repos\seconTry\GamesNet\obj\Debug\net8.0\GamesNet.pdb
 C:\Users\lenovo\source\repos\seconTry\GamesNet\obj\Debug\net8.0\GamesNet.genruntimeconfig.cache
 C:\Users\lenovo\source\repos\seconTry\GamesNet\obj\Debug\net8.0\ref\GamesNet.dll
+C:\Users\lenovo\source\repos\seconTry\GamesNet\obj\Debug\net8.0\GamesNet.sourcelink.json
